@@ -6,4 +6,5 @@ orange
 blue
 yellow
 green
+puple
 Thse are the color of Rainbow
